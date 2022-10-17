@@ -1,4 +1,4 @@
-module github.com/edwardzjl/purl
+module github.com/edwardzjl/surl
 
 go 1.19
 
