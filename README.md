@@ -1,6 +1,6 @@
-# PURL - Persistable URL
+# SURL - Serializable URL
 
-PURL extends `net/url` and provides functions to serialize/deserialize url to/from json and db.
+SURL extends `net/url` and provides functions to serialize/deserialize url to/from json and db.
 
 ## Install
 
